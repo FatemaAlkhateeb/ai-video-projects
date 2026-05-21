@@ -16,6 +16,9 @@ Welcome to my AI video portfolio.
 - Lovalable
 - VEO
 - Gemini
+- DeepSeek
+- Grok
+- Flow
 - Ai Essentails for project Managers
 - Marketing your business with AI
 - Pinterest
