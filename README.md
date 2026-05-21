@@ -15,10 +15,11 @@ Welcome to my AI video portfolio.
 - Copilot
 - Lovalable
 - VEO
+- Flow
 - Gemini
 - DeepSeek
 - Grok
-- Flow
+- Nano Banana
 - Ai Essentails for project Managers
 - Marketing your business with AI
 - Pinterest
